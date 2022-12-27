@@ -6,8 +6,8 @@
 The 21st century is a century for robotics. Robots have long borne the potential to bridge the gap between the cybernetic world (the internet of things) and the physical world. As the most promising candidate to theme the next major industrial revolution succeeding the present third (digital) industrial revolution, robotics is set to play an ever increasingly important role in society for its influence in every aspect of life in Hong Kong, including medicine and healthcare, building service, manufacturing, food production, logistics and transportation. In this project i explained about robotics,types with a bot service..
 
 # Project demo Links:
-                     Github Reposistory Link:https://github.com/RamyaSrichavali/robotics
-                     Azure Project Link:https://calm-pebble-0e18f5210.2.azurestaticapps.net
+  Github Reposistory Link:https://github.com/RamyaSrichavali/robotics
+  Azure Project Link:https://calm-pebble-0e18f5210.2.azurestaticapps.net
 
 # Azure Technologies used:
 Azure bot Service,Static Webapp
